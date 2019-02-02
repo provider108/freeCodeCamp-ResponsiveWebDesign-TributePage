@@ -1,8 +1,21 @@
-#image{
+#image {
   max-width: 100%;
   display: block;
   height: auto;
 }
-#title{
+
+#title {
   text-align: center;
+}
+
+#main {
+	margin: 0px;
+	border-width: 0px;
+	background-color: #EEEEEE;
+}
+
+#image-div {
+	text-align: center;
+	align-items: center;
+	background-color: #FF0000; 
 }
