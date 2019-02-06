@@ -1,7 +1,6 @@
-#image {
-  max-width: 100%;
-  display: block;
-  height: auto;
+body {
+	text-align: center;
+	font-family: sans-serif;
 }
 
 #title {
@@ -9,13 +8,21 @@
 }
 
 #main {
-	margin: 0px;
-	border-width: 0px;
 	background-color: #EEEEEE;
+	padding-top: 1em;
+	padding-bottom: 1em;
+	margin-top: 25px;
+	margin-bottom: 25px;
+	border-radius: 5px;
 }
 
-#image-div {
-	text-align: center;
-	align-items: center;
-	background-color: #FF0000; 
+#img-div {	
+	background-color: #FFFFFF;
+	padding: 5px 0px 5px 0px;
+}
+
+ul {
+	text-align: left;
+	margin: 0px 30% 0px 30%;
+	line-height: 1.5em;
 }
