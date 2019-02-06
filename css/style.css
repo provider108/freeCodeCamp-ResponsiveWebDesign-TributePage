@@ -21,6 +21,10 @@ body {
 	padding: 5px 0px 5px 0px;
 }
 
+#img {
+	max-width: 100%;
+}
+
 ul {
 	text-align: left;
 	margin: 0px 30% 0px 30%;
